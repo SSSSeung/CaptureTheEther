@@ -21,3 +21,7 @@ contract GuessTheNumberChallenge {
         }
     }
 }
+
+/*
+Connect contract and call guess with 42
+*/
